@@ -19,6 +19,9 @@ int test_rxs(void)
 
   n = read(sockfd,buffer,255);
   /* use buffer
+
+
+  
      if buffer is used as argument to system() or to setenv()
      the buffer may contain untrusted commands or characters 
      leading to unpredictable program behavior

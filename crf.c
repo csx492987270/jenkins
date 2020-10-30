@@ -1,5 +1,6 @@
 /* Indirect recursion.
     if first call to func_recurse is: func_recurse(p_glbl, 6)
+    test
     this code segment will call func_recurse inside func_b
 */
 #include <stdio.h>
