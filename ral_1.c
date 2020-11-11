@@ -16,8 +16,10 @@ char * ral_1(){
 }
 
 char * ral_2(){
+
     static char *arr = "hello world"; //字符常量
      //static char arr[] = "hello world!";
+     
      return arr;
 }
 
