@@ -1,0 +1,384 @@
+[
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-o",
+            "ral_1.o",
+            "ral_1.c"
+        ],
+        "directory": "/home/cheng/jenkins",
+        "file": "ral_1.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-o",
+            "fmt.o",
+            "fmt.c"
+        ],
+        "directory": "/home/cheng/jenkins",
+        "file": "fmt.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-o",
+            "wrf.o",
+            "wrf.c"
+        ],
+        "directory": "/home/cheng/jenkins",
+        "file": "wrf.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-o",
+            "rxs.o",
+            "rxs.c"
+        ],
+        "directory": "/home/cheng/jenkins",
+        "file": "rxs.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-o",
+            "msf.o",
+            "msf.c"
+        ],
+        "directory": "/home/cheng/jenkins",
+        "file": "msf.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-o",
+            "ddv.o",
+            "ddv.c"
+        ],
+        "directory": "/home/cheng/jenkins",
+        "file": "ddv.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-o",
+            "aob.o",
+            "aob.c"
+        ],
+        "directory": "/home/cheng/jenkins",
+        "file": "aob.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-o",
+            "npd.o",
+            "npd.c"
+        ],
+        "directory": "/home/cheng/jenkins",
+        "file": "npd.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-o",
+            "crf.o",
+            "crf.c"
+        ],
+        "directory": "/home/cheng/jenkins",
+        "file": "crf.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-o",
+            "udr.o",
+            "udr.c"
+        ],
+        "directory": "/home/cheng/jenkins",
+        "file": "udr.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-o",
+            "dbf.o",
+            "dbf.c"
+        ],
+        "directory": "/home/cheng/jenkins",
+        "file": "dbf.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-o",
+            "uiv.o",
+            "uiv.c"
+        ],
+        "directory": "/home/cheng/jenkins",
+        "file": "uiv.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-o",
+            "uaf.o",
+            "uaf.c"
+        ],
+        "directory": "/home/cheng/jenkins",
+        "file": "uaf.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-o",
+            "dbz.o",
+            "dbz.c"
+        ],
+        "directory": "/home/cheng/jenkins",
+        "file": "dbz.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-o",
+            "fam_2.o",
+            "fam_2.c"
+        ],
+        "directory": "/home/cheng/jenkins",
+        "file": "fam_2.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-o",
+            "fam.o",
+            "fam.c"
+        ],
+        "directory": "/home/cheng/jenkins",
+        "file": "fam.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-o",
+            "ral.o",
+            "ral.c"
+        ],
+        "directory": "/home/cheng/jenkins",
+        "file": "ral.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-o",
+            "msf.o",
+            "msf.c"
+        ],
+        "directory": "/home/cheng/jenkins"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-o",
+            "ral_1.o",
+            "ral_1.c"
+        ],
+        "directory": "/home/cheng/jenkins"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-o",
+            "fam_2.o",
+            "fam_2.c"
+        ],
+        "directory": "/home/cheng/jenkins"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-o",
+            "wrf.o",
+            "wrf.c"
+        ],
+        "directory": "/home/cheng/jenkins"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-o",
+            "fam.o",
+            "fam.c"
+        ],
+        "directory": "/home/cheng/jenkins"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-o",
+            "dbz.o",
+            "dbz.c"
+        ],
+        "directory": "/home/cheng/jenkins"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-o",
+            "udr.o",
+            "udr.c"
+        ],
+        "directory": "/home/cheng/jenkins"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-o",
+            "npd.o",
+            "npd.c"
+        ],
+        "directory": "/home/cheng/jenkins"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-o",
+            "ddv.o",
+            "ddv.c"
+        ],
+        "directory": "/home/cheng/jenkins"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-o",
+            "uaf.o",
+            "uaf.c"
+        ],
+        "directory": "/home/cheng/jenkins"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-o",
+            "aob.o",
+            "aob.c"
+        ],
+        "directory": "/home/cheng/jenkins"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-o",
+            "crf.o",
+            "crf.c"
+        ],
+        "directory": "/home/cheng/jenkins"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-o",
+            "fmt.o",
+            "fmt.c"
+        ],
+        "directory": "/home/cheng/jenkins"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-o",
+            "dbf.o",
+            "dbf.c"
+        ],
+        "directory": "/home/cheng/jenkins"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-o",
+            "uiv.o",
+            "uiv.c"
+        ],
+        "directory": "/home/cheng/jenkins"
+    },
+    {
+        "arguments": [
+            "ar",
+            "crv",
+            "basic.a",
+            "aob.o",
+            "dbf.o",
+            "dbz.o",
+            "ddv.o",
+            "fam.o",
+            "fam_2.o",
+            "fmt.o",
+            "msf.o",
+            "npd.o",
+            "ral.o",
+            "ral_1.o",
+            "rxs.o",
+            "uaf.o",
+            "udr.o",
+            "uiv.o",
+            "wrf.o",
+            "crf.o"
+        ],
+        "directory": "/home/cheng/jenkins"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-o",
+            "rxs.o",
+            "rxs.c"
+        ],
+        "directory": "/home/cheng/jenkins"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-o",
+            "ral.o",
+            "ral.c"
+        ],
+        "directory": "/home/cheng/jenkins"
+    }
+]

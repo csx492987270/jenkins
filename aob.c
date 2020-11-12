@@ -2,7 +2,7 @@
 
 int assign(int* a, int i)
 {
-  return a[i];  /* called by main
+  return a[i];  /* called by m:n
                    a only has 2 elements but i is 2 */
 }
 
