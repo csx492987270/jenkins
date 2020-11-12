@@ -19,6 +19,7 @@ int test_uaf() {
   my_free(p);  /* p is freed */
   j = 0;
   for (i=0; i < 10; ++i)
+  
     j += q[i]; /* read of p[i] is illegal
                   Use-After-Free here */
   return j;

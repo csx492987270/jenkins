@@ -10,5 +10,6 @@ int test_dbz(int a, int guard)
       
       /* did not check for zero */
     printf("result is %d", result);
+    
     return 0;
 }
